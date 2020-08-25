@@ -1,2 +1,4 @@
 # xxxxx417.github.io
-gitの練習用
+gitの練習用です。更新練習です。
+
+
